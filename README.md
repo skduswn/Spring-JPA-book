@@ -49,7 +49,7 @@ Spring framework, JPA를 사용한 개인 프로젝트
 
 ———
 DB구성
-<img width="1030" alt="dbimage" src="https://github.com/skduswn/Spring-JPA-book/issues/1#issue-1629111201.png">
+<img width="1030" alt="dbimage" src="https://github.com/skduswn/Spring-JPA-book/issues/1#issue-1629111201">
 
 
 
