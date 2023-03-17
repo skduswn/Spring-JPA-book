@@ -3,7 +3,7 @@
 # Book shop
 Spring framework, JPA를 사용한 개인 프로젝트
 # 프로젝트 수행 날짜 : 2023년 3월 10일 ~ 2023년 3월 17일
-## 주제 : **java spring frame work**를 활용한 책 판매 웹 어플리케이션
+## 주제 : **Java spring framework, JPA**를 활용한 책 판매 웹 어플리케이션
 ### 개인 프로젝트
 
 ----------
