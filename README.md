@@ -49,7 +49,7 @@ Spring framework, JPA를 사용한 개인 프로젝트
 
 ———
 ## DB구성
-<img width="1030" alt="dbimage" src="https://user-images.githubusercontent.com/85162715/225886422-9bede141-0fab-4f84-9042-efd289a82cc2.png">
+<img width="1030" alt="dbimage" src="https://user-images.githubusercontent.com/85162715/226177365-718a2492-44f4-44e8-b502-6ab250173b40.png">
 
 
 
