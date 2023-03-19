@@ -47,9 +47,18 @@ Spring framework, JPA를 사용한 개인 프로젝트
 + 타임리프 의존성을 추가하여 html로 개발하였습니다.
 + Spring Data JPA 의존성 추가하여 개발하였습니다. JPA는 스프링에서 ORM을 쉽게 사용할 수 있게 Spring data로 추상화 시켜둔 것입니다. Spring Data JPA가 제공하는 인터페이스, 애노테이션 등을 사용해서 JPA, Hibernate를 사용하였습니다.
 
-———
+----------
 ## DB구성
 <img width="1030" alt="dbimage" src="https://user-images.githubusercontent.com/85162715/226177365-718a2492-44f4-44e8-b502-6ab250173b40.png">
+
+----------
+## 작동
+<img width="1030" alt="dbimage" src="https://user-images.githubusercontent.com/85162715/226179055-67e8dbaf-012b-4db0-8f83-85cacffbeacf.png">
+<img width="1030" alt="dbimage" src="https://user-images.githubusercontent.com/85162715/226179056-de6131c4-2683-4d64-a756-99c3ab012ec2.png">
+<img width="1030" alt="dbimage" src="https://user-images.githubusercontent.com/85162715/226179058-605732db-4ddc-47d0-a15c-5984671c9a82.png">
+<img width="1030" alt="dbimage" src="https://user-images.githubusercontent.com/85162715/226179061-2914959c-30bc-4ea2-aead-1c11756f4c39.png">
+<img width="1030" alt="dbimage" src="https://user-images.githubusercontent.com/85162715/226179063-2133a8b4-28c5-4901-a589-6668b930ec0b.png">
+
 
 
 
