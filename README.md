@@ -38,7 +38,7 @@ Spring framework, JPA를 사용한 개인 프로젝트
 + Java언어를 사용하여 개발하였습니다.
 
 ### Html
-+ 타임리프 의존성을 추가하였습니다. 타임리프는 컨트롤러가 전달하는 데이터를 이용해 동적으로 화면을 만들어주는 역할을 하는 뷰 템플릿 엔진입니다.
++ thymeleaf 의존성을 추가하였습니다. thymeleaf는 컨트롤러가 전달하는 데이터를 이용해 동적으로 화면을 만들어주는 역할을 하는 뷰 템플릿 엔진입니다.
 
 ### Mysql, Mysql workbench
 + DMBS는 Mysql을 사용하였고, 이를 Mysql workbench로 관리하였습니다.
