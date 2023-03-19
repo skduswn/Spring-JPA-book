@@ -44,7 +44,7 @@ Spring framework, JPA를 사용한 개인 프로젝트
 + DMBS는 Mysql을 사용하였고, 이를 Mysql workbench로 관리하였습니다.
 
 ### 주요 의존성
-+  의존성을 추가하여 html로 개발하였습니다.
++ Thymeleaf 의존성을 추가하여 html로 개발하였습니다.
 + Spring Data JPA 의존성 추가하여 개발하였습니다. JPA는 스프링에서 ORM을 쉽게 사용할 수 있게 Spring data로 추상화 시켜둔 것입니다. Spring Data JPA가 제공하는 인터페이스, 애노테이션 등을 사용해서 JPA, Hibernate를 사용하였습니다.
 
 ----------
